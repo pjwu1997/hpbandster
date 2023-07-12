@@ -1,0 +1,1 @@
+[[0, 0, 0], {"dropout_rate": 0.6780218519287874, "lr": 0.037005193329570765, "num_conv_layers": 3, "num_fc_units": 30, "num_filters_1": 27, "optimizer": "Adam", "num_filters_2": 26, "num_filters_3": 37}, {"model_based_pick": false}]
